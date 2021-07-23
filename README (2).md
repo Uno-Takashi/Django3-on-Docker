@@ -1,0 +1,2 @@
+# Your-Animation-Stream
+今季のアニメを自分の契約しているstreamサービスからいい感じに作り出すサービス

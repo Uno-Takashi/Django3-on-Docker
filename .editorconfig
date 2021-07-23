@@ -1,0 +1,12 @@
+# Rules in this file were initially inferred by Visual Studio IntelliCode from the C:\Users\Eunon\Source\Repos\Your-Animation-Stream codebase based on best match to current usage at 2021/07/23
+# You can modify the rules from these initially generated values to suit your own policies
+# You can learn more about editorconfig here: https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+indent_size = 4
+indent_style = space
+trim_trailing_whitespace = true
